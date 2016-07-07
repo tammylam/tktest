@@ -51538,7 +51538,7 @@ function $StateProvider(   $urlRouterProvider,   $urlMatcherFactory) {
    *
    * examples:
    * <pre>url: "/home"
-   * url: "/users/:userid"
+   * url: "/users/:userId"
    * url: "/books/{bookid:[a-zA-Z_-]}"
    * url: "/books/{categoryid:int}"
    * url: "/books/{publishername:string}/{categoryid:int}"
